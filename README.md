@@ -1,16 +1,17 @@
-## Hi there 👋
+# About Me
 
-<!--
-**terryuland/terryuland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Terry. I'm an entrepreneur, IT technician, developer, mechanic, and I'm constantly starting projects. Sometimes I even finish one.
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Electronics
+- Smart Solar Battery Charger
+- UPS Load Tester
+- Solar Power & Backup System
+
+### Automotive Restorations
+- 1961 GMC K1500 
+- 1946 Ford 1 Ton Express
+- 1956 Ford Customline
+- 1980 Dodge Challenger (Mitsibishi Galant)
+
