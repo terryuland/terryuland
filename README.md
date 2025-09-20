@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm Terry. I'm an entrepreneur, IT technician, developer, mechanic, and I'm constantly starting projects. Sometimes I even finish one.
+Hi, I'm Terry. I'm constantly starting projects. Sometimes I even finish one.
 
 ## Current Projects
 
